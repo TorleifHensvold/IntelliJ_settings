@@ -1,7 +1,7 @@
 <code_scheme name="TorleifCSS" version="173">
   <CssCodeStyleSettings>
-    <option name="HEX_COLOR_LOWER_CASE" value="true" />
-    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
     <option name="BRACE_PLACEMENT" value="1" />
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
